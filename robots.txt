@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://douniaelabbassi-dounia.github.io/oxycare-v4/sitemap.xml
